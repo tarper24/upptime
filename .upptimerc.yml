@@ -14,10 +14,10 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: tarper24 Status
-  introTitle: "**tarper24 System's status**, powered by GitHub."
+  introTitle: "**tarper24's system status**, powered by [GitHub](https://github.com/)."
   introMessage: |
-    - **What is this page?**
-    - This page is used by tarper24 to keep track of his websites uptime. It uses real-time data from GitHub with [Upptime](https://github.com/upptime/upptime).
+    **What is this page?**
+    This page is used by tarper24 to keep track of his websites uptime. It uses real-time data from GitHub with [Upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
