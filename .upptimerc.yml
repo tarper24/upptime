@@ -18,11 +18,12 @@ status-website:
   introMessage: |
     **What is this page?**
 
-    This page is used by tarper24 to keep track of his websites uptime. It uses real-time data from GitHub with [Upptime](https://github.com/upptime/upptime).
+    This page is used by tarper24 to keep track of his websites' uptimes. It uses real-time data from GitHub with [Upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
