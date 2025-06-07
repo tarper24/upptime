@@ -4,17 +4,19 @@
     "url": "https://tarper24.net",
     "icon": "https://icons.duckduckgo.com/ip3/tarper24.net.ico",
     "slug": "tarper24",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 185,
-    "timeWeek": 432,
-    "timeMonth": 537,
-    "timeYear": 524,
-    "dailyMinutesDown": {}
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 517,
+    "timeDay": 2628,
+    "timeWeek": 948,
+    "timeMonth": 670,
+    "timeYear": 536,
+    "dailyMinutesDown": {
+      "2025-06-07": 31
+    }
   }
 ]
