@@ -6,17 +6,16 @@
     "slug": "tarper24",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 599,
-    "timeDay": 781,
-    "timeWeek": 568,
-    "timeMonth": 560,
-    "timeYear": 626,
+    "time": 600,
+    "timeDay": 703,
+    "timeWeek": 567,
+    "timeMonth": 550,
+    "timeYear": 627,
     "dailyMinutesDown": {
-      "2025-10-02": 9,
       "2025-06-07": 31
     }
   }
